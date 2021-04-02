@@ -57,7 +57,7 @@ input,button {
   cursor: pointer;
 }
 .button:hover {
-  color: #3a3A3a;
+  color: #3a3a3a;
 }
 /* Heading */
 .todo__caption,
@@ -77,8 +77,8 @@ input,button {
   line-height: 18px;
   height: 21px;
   padding: 0 9px;
-  border: 1px solid #dDd;
-  background: #FFF;
+  border: 1px solid #ddd;
+  background: #fff;
   border-radius: 6px;
   font-family: Lato, sans-serif;
   color: #888;
@@ -96,7 +96,7 @@ input,button {
   width: 318px;
 }
 .section-add__button:hover {
-  color: #0FC57C;
+  color: #0fc57c;
 }
 
 /* Task list */
@@ -131,7 +131,7 @@ input,button {
 }
 .todo__button-delete:hover,
 .compl__button-delete:hover {
-  color: #CF2323;
+  color: #cf2323;
 }
 .todo__img,
 .compl__img {
